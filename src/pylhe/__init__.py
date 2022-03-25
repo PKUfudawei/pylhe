@@ -7,7 +7,7 @@ import networkx as nx
 import tex2pix
 from particle.converters.bimap import DirectionalMaps
 
-from ._version import version as __version__
+#from ._version import version as __version__
 from .awkward import register_awkward, to_awkward
 
 __all__ = [
